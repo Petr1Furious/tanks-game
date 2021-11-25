@@ -1,0 +1,33 @@
+﻿  Source.cpp
+C:\Users\Admin\source\repos\Tank maze s\Tank maze s\Source.cpp(33,84): warning C4244: аргумент: преобразование "_Rep" в "unsigned int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Admin\source\repos\Tank maze s\Tank maze s\Source.cpp(211,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Tank maze s\Tank maze s\Source.cpp(251,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\Tank maze s\Tank maze s\Source.cpp(284,15): warning C4244: инициализация: преобразование "ld" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\Tank maze s\Tank maze s\Source.cpp(294,15): warning C4244: инициализация: преобразование "ld" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\Tank maze s\Tank maze s\Source.cpp(403,101): warning C4244: аргумент: преобразование "ld" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\Tank maze s\Tank maze s\Source.cpp(515,68): warning C4244: аргумент: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\Admin\source\repos\Tank maze s\Tank maze s\Source.cpp(591,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\Tank maze s\Tank maze s\Source.cpp(903,22): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\Tank maze s\Tank maze s\Source.cpp(904,22): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\Tank maze s\Tank maze s\Source.cpp(909,43): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\Tank maze s\Tank maze s\Source.cpp(909,15): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\Tank maze s\Tank maze s\Source.cpp(1005,6): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Tank maze s\Tank maze s\Source.cpp(1118,123): warning C4244: аргумент: преобразование "unsigned __int64" в "sf::Uint32", возможна потеря данных
+C:\Users\Admin\source\repos\Tank maze s\Tank maze s\Source.cpp(1264,11): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\Tank maze s\Tank maze s\Source.cpp(1322,60): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\Tank maze s\Tank maze s\Source.cpp(1322,32): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\Tank maze s\Tank maze s\Source.cpp(1704,24): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\Tank maze s\Tank maze s\Source.cpp(1746,29): warning C4244: =: преобразование "unsigned __int64" в "sf::Uint32", возможна потеря данных
+C:\Users\Admin\source\repos\Tank maze s\Tank maze s\Source.cpp(1969,33): warning C4244: аргумент: преобразование "ld" в "const unsigned __int64", возможна потеря данных
+C:\Users\Admin\source\repos\Tank maze s\Tank maze s\Source.cpp(1969,73): warning C4244: аргумент: преобразование "ld" в "const unsigned __int64", возможна потеря данных
+C:\Users\Admin\source\repos\Tank maze s\Tank maze s\Source.cpp(2002,31): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\Tank maze s\Tank maze s\Source.cpp(2002,74): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+  Создание кода
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 2196 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Tank maze s.vcxproj -> C:\Users\Admin\source\repos\Tank maze s\x64\Release\Tank maze s.exe
