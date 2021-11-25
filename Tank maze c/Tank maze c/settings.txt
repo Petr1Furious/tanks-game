@@ -1,9 +1,0 @@
-nickname=Petr
-password=000111000
-server_password=
-window_length=1074
-window_height=600
-window_Xpos=407
-window_Ypos=215
-fullscreen_mode=1
-use_keyboard=0

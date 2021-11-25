@@ -24,7 +24,7 @@
 #define PACKETS_PER_SECOND 40
 #define MAX_PLAYER_COUNT 10
 #define PACKET_STORAGE_SIZE 100
-#define DISCONNECT_AFTER 10
+#define DISCONNECT_AFTER 3
 typedef double ld;
 ld gettime() {
 	return std::chrono::high_resolution_clock::now().time_since_epoch().count() / (long double)1e9;
@@ -1025,7 +1025,7 @@ bool inFocus;
 Chat chat;
 std::string Nickname, Password, sPassword;
 TcpSocket sock;
-IpAddress ip = "217.107.197.134";
+IpAddress ip = "127.0.0.1";
 unsigned short port = 13111;
 #define BUFFER_SIZE 256
 int PLAYER_COUNT = 0;
