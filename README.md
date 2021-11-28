@@ -50,7 +50,7 @@ The list of the other commands can be accessed by typing **/** in the chat and p
 
 ### Server
 
-Server can also execute commands (for example, it is the only way to give the first player operator permissions, or to start a game without such player). A caommand should not contain **/** in front of it.
+Server can also execute commands (for example, it is the only way to give the first player operator permissions, or to start a game without such player). A command should not contain **/** in front of it.
 
 ## Example
 
