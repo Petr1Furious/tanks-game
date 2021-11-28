@@ -1,6 +1,6 @@
 # Tanks game
 
-Client-server multiplayer game based. Uses TCP/IP for connection.
+Client-server multiplayer game. Uses TCP/IP for connection.
 
 Each round up to 10 players connected to the server spawn in a randomly generated maze. Each one is controlling a tank. All tanks can shoot, the type of projectile depends on the current game mode and player powerup. Projectiles bounce off the walls, but their properties can be very different depending on the type. Tanks can be destroyed with a single shot. The only one who is alive at the end wins the round. After that a new round begins, and the game continues.
 
